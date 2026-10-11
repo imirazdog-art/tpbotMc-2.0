@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "darshana_sir",
+    "username": "vimasHA",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "imiraZdog-G5Xn.aternos.me",
-    "port": 38876,
-    "version": "1.20.1",
+    "ip": "pvpezio.aternos.me",
+    "port": 23884,
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
